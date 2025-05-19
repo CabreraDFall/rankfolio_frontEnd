@@ -57,3 +57,12 @@
   --bronce-800: #876150;
   --bronce-900: #674a3d;
 }
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+ 
+  
+}
+

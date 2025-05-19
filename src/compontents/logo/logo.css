@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    color:var(--purple-50);
+    align-items: center;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start ;
+}

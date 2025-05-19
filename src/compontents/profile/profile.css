@@ -1,0 +1,10 @@
+.profileIcon{
+    color: var(--purple-50);
+    height: 40px;
+    width: 40px;
+    background: linear-gradient( 325deg,#3A327B,41%, #6A5BE1 100%);   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+}
