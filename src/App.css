@@ -1,0 +1,142 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 48px;
+  line-height: 140%;
+  font-weight: normal;
+}
+
+h1.medium {
+  font-family: 'Rubik Medium', sans-serif;
+  font-weight: 500;
+}
+
+h1.bold {
+  font-family: 'Rubik Bold', sans-serif;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 40px;
+  line-height: 140%;
+  font-weight: normal;
+}
+
+h2.medium {
+  font-family: 'Rubik Medium', sans-serif;
+  font-weight: 500;
+}
+
+h2.bold {
+  font-family: 'Rubik Bold', sans-serif;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 33px;
+  line-height: 140%;
+  font-weight: normal;
+}
+
+h3.medium {
+  font-family: 'Rubik Medium', sans-serif;
+  font-weight: 500;
+}
+
+h3.bold {
+  font-family: 'Rubik Bold', sans-serif;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 28px;
+  line-height: 140%;
+  font-weight: normal;
+}
+
+h4.medium {
+  font-family: 'Rubik Medium', sans-serif;
+  font-weight: 500;
+}
+
+h4.bold {
+  font-family: 'Rubik Bold', sans-serif;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 23px;
+  line-height: 140%;
+  font-weight: normal;
+}
+
+h5.medium {
+  font-family: 'Rubik Medium', sans-serif;
+  font-weight: 500;
+}
+
+h5.bold {
+  font-family: 'Rubik Bold', sans-serif;
+  font-weight: bold;
+}
+
+.title {
+  font-family: 'Rubik', sans-serif;
+  font-size: 19px;
+  line-height: 140%;
+  font-weight: normal;
+}
+
+.title.medium {
+  font-family: 'Rubik Medium', sans-serif;
+  font-weight: 500;
+}
+
+.title.bold {
+  font-family: 'Rubik Bold', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Rubik', sans-serif;
+  font-size: 16px;
+  line-height: 140%;
+  font-weight: normal;
+}
+
+p.medium {
+  font-family: 'Rubik Medium', sans-serif;
+  font-weight: 500;
+}
+
+p.bold {
+  font-family: 'Rubik Bold', sans-serif;
+  font-weight: bold;
+}
+
+.caption {
+  font-family: 'Rubik', sans-serif;
+  font-size: 11px;
+  line-height: 140%;
+  font-weight: normal;
+}
+
+.caption.medium {
+  font-family: 'Rubik Medium', sans-serif;
+  font-weight: 500;
+}
+
+.caption.bold {
+  font-family: 'Rubik Bold', sans-serif;
+  font-weight: bold;
+}
