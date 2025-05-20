@@ -117,16 +117,19 @@ p {
   font-size: 16px;
   line-height: 140%;
   font-weight: normal;
+  text-align: left
 }
 
 p.medium {
   font-family: 'Rubik Medium', sans-serif;
   font-weight: 500;
+  text-align: left
 }
 
 p.bold {
   font-family: 'Rubik Bold', sans-serif;
   font-weight: bold;
+  text-align: left
 }
 
 .caption {

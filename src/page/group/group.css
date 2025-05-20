@@ -1,8 +1,83 @@
 .group{
+    padding-bottom: 10px;
+    padding: 0px 50px;
+}
+.group_header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 50px 150px;
+    padding: 50px 0;
     color: var(--purple-50);
+}
+
+.add{
+    background-color: var(--purple-800);
+    height: 45px;
+    width: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+
+}
+.border_gradient{
+   background: linear-gradient(210deg, #ffffff00 20%, #999999 100%);
+  padding: 1px; 
+  border-radius: 20px; 
+  margin-bottom: 20px;
+}
+
+.group_card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: var(--purple-800);
+    color: var(--purple-100);
+    padding: 24px 20px;
+    border-radius: 20px;
+    border: 1px solid linear-gradient(45deg, #fff 20%, #999999 100%);
+    gap: 40px;
+    
+}
+
+.card_top, .card_bottom{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.card_bottom{
+    position: relative;
+}
+.card_text { 
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.card_tags{
+    display: flex;
+    gap: 8px;
+}
+
+.card_tags span{
+    background-color: var(--purple-700);
+    padding: 5px 10px;
+    border-radius: 20px;
+    
+}
+
+.accessIcon{    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background: var(--purple-500);
+    height: 46px;
+    width: 43px;
+    right: -20px;
+    top:3px;
+    border-radius: 20px 0px 20px 0;
+
 }
 
